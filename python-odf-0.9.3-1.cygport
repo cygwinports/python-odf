@@ -1,7 +1,0 @@
-ORIG_PN="odfpy"
-inherit distutils
-
-
-HOMEPAGE="http://odfpy.forge.osor.eu/"
-
-DOCS="APACHE-LICENSE-2.0.txt"
